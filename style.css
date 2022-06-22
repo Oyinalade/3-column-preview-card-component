@@ -18,7 +18,7 @@ Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
 */
 body {
   background-color: hsl(0, 0%, 95%);
-  margin: 4.25rem;
+  margin: 2.25rem;
 }
 #card {
   align-items: center;
