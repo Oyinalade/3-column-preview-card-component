@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Oyinalade/3-column-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://oyinalade.github.io/3-column-preview-card-component/)
+- Solution URL: [(https://github.com/Oyinalade/3-column-preview-card-component.git)]
+- Live Site URL: [(https://oyinalade.github.io/3-column-preview-card-component/)]
 
 ## My process
 
